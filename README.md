@@ -1,9 +1,9 @@
-# <div align="center">I'm Zig Zag! ◕‿◕</div>
+# <div align="center">🚀 I'm Zig Zag! ◕‿◕ 🔥</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&height=100&lines=Student+at+Swinburne+University;Passionate+Developer;UI%2FUX+Enthusiast;Problem+Solver;Creative+Coder" alt="Typing SVG" />
 </div>
 
-## 💫 About Me
+# 💫 About Me
 <img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM2ODQzY2UwZDRjMDg1OTk4MWJiOThhNTIzZTdkZjViY2EzZjllNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 - 🚀 Currently studying at **Swinburne University**
@@ -22,10 +22,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/dark_net_studio)
 </div>
 
-## 💻 Stack
+## 🚀🔥 Dev Playground  
 <div align="center">
 
-### Languages
+### Languages and Interests
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-## 📊 GitHub Stats
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zigzag-007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
